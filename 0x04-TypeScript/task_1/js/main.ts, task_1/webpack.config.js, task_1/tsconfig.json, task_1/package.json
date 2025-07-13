@@ -1,0 +1,17 @@
+const teacher3: Teacher = {
+  firstName: 'feven',
+  fullTimeEmployee: false,
+  lastName: 'gebremichael',
+  location: 'addis ababa',
+  contract: false,
+};
+
+console.log(teacher3);
+
+// should print
+// Object
+// contract: false
+// firstName: "feven"
+// fullTimeEmployee: false
+// lastName: "gebremichael"
+// location: "addis ababa"
